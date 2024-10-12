@@ -1,7 +1,7 @@
 name: flutter_kit
-description: "A new Flutter package project."
+description: Private plugins / packages
 version: 0.0.1
-homepage:
+homepage: "https://github.com/tucici/flutter_kit.git"
 
 environment:
   sdk: ^3.5.1
