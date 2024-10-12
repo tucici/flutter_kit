@@ -1,4 +1,4 @@
-import 'package:flutter_kit/flutter_kit.dart';
+import 'package:flutter_kit_plus/flutter_kit.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
