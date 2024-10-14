@@ -17,5 +17,5 @@ Private plugins / packages
 
 ## Getting started
 ```javascript
-flutter add pub flutter_kit
+flutter add pub flutter_kit_plus
 ```
