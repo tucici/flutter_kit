@@ -12,6 +12,8 @@ dependencies:
     sdk: flutter
   flutter_kit_bluetooth: 
     path: ../flutter_kit_bluetooth
+  flutter_kit_call:
+    path: ../flutter_kit_call
   flutter_kit_dsp:
     path: ../flutter_kit_dsp
   flutter_kit_extension:
@@ -20,14 +22,20 @@ dependencies:
     path: ../flutter_kit_file
   flutter_kit_http:
     path: ../flutter_kit_http
-  flutter_kit_ota:
-    path: ../flutter_kit_ota
-  flutter_kit_ui:
-    path: ../flutter_kit_ui
-  flutter_kit_nfc:
-    path: ../flutter_kit_nfc
   flutter_kit_hud:
     path: ../flutter_kit_hud
+  flutter_kit_map:
+    path: ../flutter_kit_map  
+  flutter_kit_nfc:
+    path: ../flutter_kit_nfc  
+  flutter_kit_ota:
+    path: ../flutter_kit_ota
+  flutter_kit_permission:
+    path: ../flutter_kit_permission
+  flutter_kit_share:
+    path: ../flutter_kit_share  
+  flutter_kit_ui:
+    path: ../flutter_kit_ui
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git
