@@ -10,6 +10,6 @@ export 'package:flutter_kit_hud/flutter_kit_hud.dart';
 export 'package:flutter_kit_map/flutter_kit_map.dart';
 export 'package:flutter_kit_nfc/flutter_kit_nfc.dart';
 export 'package:flutter_kit_ota/flutter_kit_ota.dart';
-export 'package:flutter_kit_permission/flutter_kit_permission.dart';
+// export 'package:flutter_kit_permission/flutter_kit_permission.dart';
 export 'package:flutter_kit_share/flutter_kit_share.dart';
 export 'package:flutter_kit_ui/flutter_kit_ui.dart';
