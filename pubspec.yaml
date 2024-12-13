@@ -24,6 +24,8 @@ dependencies:
     path: ../flutter_kit_http
   flutter_kit_hud:
     path: ../flutter_kit_hud
+  flutter_kit_log:
+    path: ../flutter_kit_log
   flutter_kit_map:
     path: ../flutter_kit_map  
   flutter_kit_nfc:
@@ -50,6 +52,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  uses-material-design: true
 
   # To add assets to your package, add an assets section, like this:
   # assets:
