@@ -1,6 +1,8 @@
 # This is a generated file; do not edit or check into version control.
-flutter_blue_plus=/Users/tucici/.pub-cache/hosted/pub.dev/flutter_blue_plus-1.33.5/
-flutter_kit_permission=/Users/tucici/Documents/flutter_kit/flutter_kit_permission/
+firebase_core=/Users/tucici/.pub-cache/hosted/pub.dev/firebase_core-3.8.1/
+firebase_core_web=/Users/tucici/.pub-cache/hosted/pub.dev/firebase_core_web-2.18.2/
+firebase_crashlytics=/Users/tucici/.pub-cache/hosted/pub.dev/firebase_crashlytics-4.2.0/
+flutter_blue_plus=/Users/tucici/.pub-cache/hosted/pub.dev/flutter_blue_plus-1.34.5/
 path_provider=/Users/tucici/.pub-cache/hosted/pub.dev/path_provider-2.1.4/
 path_provider_android=/Users/tucici/.pub-cache/hosted/pub.dev/path_provider_android-2.2.12/
 path_provider_foundation=/Users/tucici/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/
