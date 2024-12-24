@@ -38,6 +38,10 @@ dependencies:
     path: ../flutter_kit_share  
   flutter_kit_ui:
     path: ../flutter_kit_ui
+  flutter_kit_database:
+    path: ../flutter_kit_database 
+  flutter_kit_ui_common:
+    path: ../flutter_kit_ui_common
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git
