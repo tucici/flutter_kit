@@ -14,8 +14,8 @@ dependencies:
     path: ../flutter_kit_bluetooth
   flutter_kit_call:
     path: ../flutter_kit_call
-  flutter_kit_dsp:
-    path: ../flutter_kit_dsp
+  # flutter_kit_dsp:
+  #   path: ../flutter_kit_dsp
   flutter_kit_extension:
     path: ../flutter_kit_extension
   flutter_kit_file:
@@ -44,6 +44,8 @@ dependencies:
     path: ../flutter_kit_ui_common
   flutter_kit_notify:
     path: ../flutter_kit_notify
+  flutter_kit_app_settings:
+    path: ../flutter_kit_app_settings
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git

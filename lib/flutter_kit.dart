@@ -1,9 +1,10 @@
 library flutter_kit;
 
+//export 'package:flutter_kit_app_settings/flutter_kit_app_settings';
 export 'package:flutter_kit_bluetooth/flutter_kit_bluetooth.dart';
 export 'package:flutter_kit_call/flutter_kit_call.dart';
 export 'package:flutter_kit_database/flutter_kit_database.dart';
-export 'package:flutter_kit_dsp/flutter_kit_dsp.dart';
+// export 'package:flutter_kit_dsp/flutter_kit_dsp.dart';
 export 'package:flutter_kit_extension/flutter_kit_extension.dart';
 export 'package:flutter_kit_file/flutter_kit_file.dart';
 export 'package:flutter_kit_http/flutter_kit_http.dart';
