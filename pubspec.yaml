@@ -46,6 +46,7 @@ dependencies:
     path: ../flutter_kit_notify
   flutter_kit_app_setting:
     path: ../flutter_kit_app_setting
+  flutter_kit_permission: ^0.0.1
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git

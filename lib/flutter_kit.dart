@@ -1,6 +1,6 @@
 library flutter_kit;
 
-//export 'package:flutter_kit_app_settings/flutter_kit_app_settings';
+export 'package:flutter_kit_app_setting/flutter_kit_app_setting.dart';
 export 'package:flutter_kit_bluetooth/flutter_kit_bluetooth.dart';
 export 'package:flutter_kit_call/flutter_kit_call.dart';
 export 'package:flutter_kit_database/flutter_kit_database.dart';
@@ -14,7 +14,7 @@ export 'package:flutter_kit_map/flutter_kit_map.dart';
 export 'package:flutter_kit_nfc/flutter_kit_nfc.dart';
 export 'package:flutter_kit_notify/flutter_kit_notify.dart';
 export 'package:flutter_kit_ota/flutter_kit_ota.dart';
-// export 'package:flutter_kit_permission/flutter_kit_permission.dart';
+export 'package:flutter_kit_permission/flutter_kit_permission.dart';
 export 'package:flutter_kit_share/flutter_kit_share.dart';
 export 'package:flutter_kit_ui/flutter_kit_ui.dart';
 export 'package:flutter_kit_ui_common/flutter_kit_ui_common.dart';
