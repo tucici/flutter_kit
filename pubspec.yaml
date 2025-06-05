@@ -44,8 +44,8 @@ dependencies:
     path: ../flutter_kit_ui_common
   flutter_kit_notify:
     path: ../flutter_kit_notify
-  flutter_kit_app_settings:
-    path: ../flutter_kit_app_settings
+  flutter_kit_app_setting:
+    path: ../flutter_kit_app_setting
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git
