@@ -32,8 +32,8 @@ dependencies:
     path: ../flutter_kit_nfc  
   flutter_kit_ota:
     path: ../flutter_kit_ota
-  # flutter_kit_permission:
-  #   path: ../flutter_kit_permission
+  flutter_kit_permission:
+    path: ../flutter_kit_permission
   flutter_kit_share:
     path: ../flutter_kit_share  
   flutter_kit_ui:
@@ -46,7 +46,6 @@ dependencies:
     path: ../flutter_kit_notify
   flutter_kit_app_setting:
     path: ../flutter_kit_app_setting
-  flutter_kit_permission: ^0.0.1
   # my_local_package:
   #   git:
   #     url: git@github.com:your-repo/my_local_package.git
