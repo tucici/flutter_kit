@@ -15,6 +15,6 @@ export 'package:flutter_kit_nfc/flutter_kit_nfc.dart';
 export 'package:flutter_kit_notify/flutter_kit_notify.dart';
 export 'package:flutter_kit_ota/flutter_kit_ota.dart';
 export 'package:flutter_kit_permission/flutter_kit_permission.dart';
-export 'package:flutter_kit_share/flutter_kit_share.dart';
+export 'package:flutter_kit_share/flutter_kit_share.dart' hide DirectoryType, shareFile, getDirectory;
 export 'package:flutter_kit_ui/flutter_kit_ui.dart';
 export 'package:flutter_kit_ui_common/flutter_kit_ui_common.dart';
